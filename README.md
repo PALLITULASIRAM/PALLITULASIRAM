@@ -102,11 +102,11 @@
 
 <hr/>
 
-<h2>📈 GitHub Stats:</h2>
+<!-- <h2>📈 GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PALLITULASIRAM&show_icons=true&theme=radical&hide_border=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALLITULASIRAM&layout=compact&theme=radical&hide_border=true" height="180em"/>
-</p>
+</p> -->
 
 <hr/>
 
@@ -117,10 +117,10 @@
 
 <hr/>
 
-<h2>🏆 GitHub Trophies:</h2>
+<!-- <h2>🏆 GitHub Trophies:</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PALLITULASIRAM&theme=radical&no-frame=true&margin-w=10"/>
-</p>
+</p> -->
 
 <hr/>
 
