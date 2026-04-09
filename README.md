@@ -87,13 +87,7 @@ AI-powered energy analytics dashboard using **React, Vite, Tailwind CSS**
 
 
 
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PALLITULASIRAM&show_icons=true&theme=radical&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALLITULASIRAM&layout=compact&theme=radical&hide_border=true" height="180em"/>
-</p>
 
----
 
 ## 🔥 GitHub Streak:
 <p align="center">
@@ -102,12 +96,6 @@ AI-powered energy analytics dashboard using **React, Vite, Tailwind CSS**
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PALLITULASIRAM&theme=radical&no-frame=true"/>
-</p>
-
----
 
 ## 🌐 Connect with Me:
 <p align="left">
