@@ -100,19 +100,29 @@
   <!-- <b>AI Energy Oracle (React + Vite)</b> — Intelligent energy analytics dashboard built using <b>React, Vite, Tailwind CSS</b> with AI-powered insights.   -->
  <hr/>
 
+<hr/>
+
 <h2>📈 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PALLITULASIRAM&show_icons=true&theme=radical&cache_seconds=86400" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALLITULASIRAM&layout=compact&theme=radical&cache_seconds=86400" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PALLITULASIRAM&show_icons=true&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALLITULASIRAM&layout=compact&theme=radical&hide_border=true" height="180em"/>
+</p>
+
+<hr/>
+
+<h2>🔥 GitHub Streak:</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PALLITULASIRAM&theme=radical&hide_border=true"/>
 </p>
 
 <hr/>
 
 <h2>🏆 GitHub Trophies:</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PALLITULASIRAM&theme=darkhub&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PALLITULASIRAM&theme=radical&no-frame=true&margin-w=10"/>
 </p>
-  <hr>
+
+<hr/>
 
   <h2>🌐 Connect with Me</h2>
   <p>
