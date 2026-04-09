@@ -85,6 +85,39 @@ AI-powered energy analytics dashboard using **React, Vite, Tailwind CSS**
 - 🔐 Login + dashboard system  
 - 📱 Responsive glassmorphism UI  
 
+### 🧬 Genotype-to-Personality (Explainable ML)
+
+Explainable Machine Learning framework to predict personality traits from genetic SNP data using **Random Forest, SHAP, Streamlit**
+
+- 🧠 Predicts personality traits based on Big Five model  
+- 🌳 Random Forest model for accurate classification  
+- 🔍 SHAP Explainable AI for feature importance & interpretation  
+- 📊 Interactive visualizations using Streamlit  
+- ⚙️ End-to-end pipeline (data simulation → preprocessing → model optimization)
+
+### 📚 Study Group Finder & Collaboration Platform
+
+Full-stack collaboration platform built using **React, Spring Boot, MySQL**
+
+- 🔐 Secure authentication using JWT & Spring Security  
+- 👥 User profiles, course management & peer discovery  
+- 🖼️ Image upload support for enhanced user interaction  
+- 📧 Email notification system for real-time updates  
+- ⚙️ Scalable full-stack architecture with REST APIs
+
+---
+
+## 📄 Publications
+
+### 🧬 Genotype-to-Personality: An Explainable Machine Learning Framework Using Simulated SNP Data
+
+- 📍 Presented at **IEEE 3rd Global Conference on Wireless Computing and Networking (GCWCN)**  
+- 📚 Published in **IEEE Xplore Digital Library**  
+- 📅 Publication Date: March 26, 2026  
+- 🎤 Type: Paper Presentation  
+- 🔬 Focus: Predicting personality traits using SNP data with Explainable AI techniques (Random Forest + SHAP)  
+
+---
 
 
 
